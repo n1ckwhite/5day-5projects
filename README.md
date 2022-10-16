@@ -5,4 +5,4 @@
  - CSS,
  - JavaScript
  
-[Готовый проект](https://n1ckwhite.github.io/5day-5projects-1day/)
+[Готовый проект](https://n1ckwhite.github.io/slider-image/)
